@@ -35,7 +35,13 @@ a{
     margin: 20px;
     width: 700px;
 }
+.order-list{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
 .habilidades{
+    text-align: center;
     font-size: 38px;
 }
 .Aut{
