@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Calendário",
+    "imageSrc": "projects/calendary.png",
+    "description": "Estudo feito utilizando Html - CSS - JavaScript.",
+    "skills": [
+      "Html",
+      "CSS",
+      "JavaScript"
+    ],
+    "source": "https://github.com/brunasilvaraujo/Dynamic-Calendar"
+  },
+  {
+    "title": "Projeto Memory-Game",
+    "imageSrc": "projects/memoryGame.png",
+    "description": "Um jogo da memória que utiliza emojis como cartas.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "source": "https://github.com/brunasilvaraujo/How-to-Create-Memory-Game-in-JavaScript"
+  },
+  {
+    "title": "Project Login-Form",
+    "imageSrc": "projects/signIn.png",
+    "description": "Tela de login feita em HTML - CSS - JavaScript.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "source": "https://github.com/brunasilvaraujo/Login-Form"
+  }
+]
